@@ -1,0 +1,54 @@
+/* Container style */
+.add-menu-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Title style */
+.add-menu-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Section style */
+.add-menu-section {
+  margin-bottom: 15px;
+}
+
+/* Input style */
+.add-menu-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+/* Select style */
+.custom-select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+/* Button style */
+.add-menu-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-menu-button:hover {
+  background-color: #0056b3;
+}
